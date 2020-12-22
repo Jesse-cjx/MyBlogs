@@ -381,10 +381,10 @@ footer:
   owner:
     enable: true
     since: 2020
-  custom_text: 到底啦( ˊ•̥▵•)੭₎₎
+  custom_text: <a href="http://beian.miit.gov.cn"><img class="icp-icon" src="/img/icp.png"><span>备案号：备案中</span></a><br/><span>到底啦( ˊ•̥▵•)੭₎₎</span>
   copyright: true # Copyright of theme and framework
-  ICP: # Chinese ICP License 备案号
-    enable: true
+  ICP: # Chinese ICP License 备案号/不可用
+    enable: false
     url: http://beian.miit.gov.cn
     text: 备案中
     icon: /img/icp.png
